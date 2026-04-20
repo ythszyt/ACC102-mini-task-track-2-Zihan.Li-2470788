@@ -36,6 +36,8 @@ The workflow includes the following steps:
   - Profit Margin
   - Asset Turnover
   - Leverage
+The selected financial ratios are aligned with the logic of DuPont analysis, which decomposes ROE.
+However, this project focuses on simplified comparison rather than a full DuPont decomposition.
 - Visualisation using line charts
 - Automated rule-based comparison
 
