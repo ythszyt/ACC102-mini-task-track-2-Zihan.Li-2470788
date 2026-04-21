@@ -43,6 +43,11 @@ The workflow includes the following steps:
 
 ---
 
+## Installation
+Before running the project, install the required libraries:
+pip install wrds pandas matplotlib
+
+---
 ## Key Findings (Example)
 Using PepsiCo (PEP) and Coca-Cola (KO) as an example:
 
