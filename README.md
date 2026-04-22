@@ -59,10 +59,10 @@ pip install wrds pandas matplotlib
 [https://video.xjtlu.edu.cn/Mediasite/Channel/50381bcaa0e74d9582215a01776a3d8d5f/headless/watch/3ca24966381347fdbcf3aed9b0f0a1391d]
 
 ## 8. Limitations
-- Missing data may lead to incomplete analysis
-- Using average values may hide short-term fluctuations
-- Results depend on correct ticker input
-- Cross-industry comparisons may be less meaningful
+- The workflow currently relies only on Compustat data, which limits its applicability  
+- Using average values may hide volatility and yearly performance changes  
+- Four financial ratios alone cannot fully evaluate company performance  
+- The rule-based summary provides only basic interpretation 
 
 ## 9. Note
 
@@ -70,7 +70,7 @@ pip install wrds pandas matplotlib
 Invalid or inconsistent inputs may result in missing or incomplete data.
 
 ## 10. Future Improvements
-
-- Add more financial ratios
-- Improve visualisation (e.g., interactive charts)
-- Expand to support more than two companies
+- Support more databases or data sources  
+- Incorporate trend-based analysis instead of relying only on averages  
+- Add more financial ratios for broader evaluation  
+- Develop more personalised and in-depth automated interpretation 
