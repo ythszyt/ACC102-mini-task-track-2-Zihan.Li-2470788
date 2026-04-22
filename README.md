@@ -3,7 +3,7 @@
 
 ## 1. Problem & Target User
 
-This project develops a reusable Python-based workflow to analyse and compare the recent financial performance of different companies using financial ratios.
+This project develops a reusable Python-based workflow to analyse and compare the recent (from 2018 onwards) financial performance of different companies using financial ratios.
 
 It addresses the analytical problem of how financial ratios can be used to compare the performance of two companies in a simple and structured way.
 
