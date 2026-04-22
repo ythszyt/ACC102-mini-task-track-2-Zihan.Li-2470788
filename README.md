@@ -57,7 +57,7 @@ pip install wrds pandas matplotlib
 ## 7. Demo Video
 
 [https://video.xjtlu.edu.cn/Mediasite/MyMediasite/embedded/presentations/d652deb7b8924adc8a8f7b4513b3dbdb1d]
-or [https://video.xjtlu.edu.cn/Mediasite/MyMediasite/embedded/presentations/d652deb7b8924adc8a8f7b4513b3dbdb1d]
+or [https://www.bilibili.com/video/BV1ZUopBTETr/?vd_source=ce6811119764d117fb446579bbf225df]
 
 ## 8. Limitations
 - The workflow currently relies only on Compustat data, which limits its applicability  
