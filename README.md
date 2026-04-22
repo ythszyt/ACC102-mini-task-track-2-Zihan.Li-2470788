@@ -11,7 +11,7 @@ It is mainly designed for beginner users, such as business or accounting student
 
 ## 2. Data Source
 
-Data is obtained from the WRDS Compustat database (`comp.funda`), which provides financial statement information for mainly US-listed companies.
+Data is obtained from the WRDS Compustat database, North America Fundamentals Annual (`comp.funda`), which provides financial statement information for mainly US-listed companies.
 
 Access date: 20/4/2026
 
